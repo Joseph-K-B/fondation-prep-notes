@@ -4,4 +4,4 @@ It allows you to alter text and functions within any site that supports markdown
 ## New Information
 * markdown can be used to convert information into HTML
 * .md denotes a markdown file
-* link to repo 
+* link to repo https://github.com/Joseph-K-B/fondation-prep-notes.git
